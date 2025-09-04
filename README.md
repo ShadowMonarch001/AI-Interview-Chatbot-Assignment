@@ -1,4 +1,5 @@
 # 🤖 AI Interview Chatbot
+<img width="987" height="807" alt="image" src="https://github.com/user-attachments/assets/30d076a5-a3ee-46bc-83e5-8b077e5fd031" />
 
 A Streamlit-based AI-powered technical interview chatbot that conducts personalized interviews based on candidate profiles. The bot collects candidate information, generates relevant technical questions using a local GGUF model, and saves interview data to Excel.
 
